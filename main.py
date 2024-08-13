@@ -2,7 +2,7 @@ from drink_del import remove_menu
 from drinkAdd import add_menu
 from ItemList import ItemList
 from order import order
-from select import select
+from select_ import select
 from selcetCheck import check_menu
 
 from enum import Enum
